@@ -1,0 +1,7 @@
+{
+  "useEffect hook": {
+    "prefix": "rh.useEffect",
+    "body": ["useEffect(() => {}, []);"],
+    "description": "useEffect hook"
+  }
+}
